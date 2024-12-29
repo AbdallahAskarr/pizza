@@ -1,0 +1,26 @@
+#foo {
+    background-color:black;
+}
+
+h5 {
+    color: white;
+    font-family: serif;
+}
+h5:hover{
+    color: #e0bc00;
+}
+
+#aa {
+    color: white;
+    font-family: serif;
+}
+
+#aaa {
+    color: white;
+    font-family: serif;
+}
+
+#end {
+    color: white;
+    font-family: serif;
+}

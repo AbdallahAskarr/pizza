@@ -1,0 +1,23 @@
+#parent_two {
+    width: 100%;
+    margin-top: 10px;
+    height: 620px;
+    background-image: url(aboutUs.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: contrast(1.1);
+
+}
+#the{
+    color: white;
+    font-size: 30px;
+}
+#pizza{
+    font-size: 80px;
+    color: #e0bc00;
+}
+#around{
+    color: white;
+    font-size: 30px;
+    padding-left: 80px;
+}
